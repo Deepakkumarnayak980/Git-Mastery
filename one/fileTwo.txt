@@ -1,0 +1,6 @@
+This is file two for git mastery.
+Add more data.
+
+2025 is coming
+
+footer section for file two

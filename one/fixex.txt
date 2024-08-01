@@ -1,0 +1,6 @@
+this file is used to fix the bugs.
+one bug fixed
+second bug detected and fixed.
+third and fourth bug detected and fixed
+final fix
+report to final fix

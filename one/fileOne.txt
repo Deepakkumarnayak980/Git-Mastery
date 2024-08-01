@@ -1,0 +1,3 @@
+This is file one for git mastery.
+Now, I'm going to make some changes, to commit it again.
+new footer to file One
